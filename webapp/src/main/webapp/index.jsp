@@ -30,7 +30,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>Happy DevOps Learning with Ansible!</h1>
+  <h1>Happy DevOps Learning with Docker, Ansible and Kubernetes!</h1>
 
   
 </form>
